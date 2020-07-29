@@ -1,1 +1,1 @@
-# Dictionary
+Dice stimulator using python
